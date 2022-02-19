@@ -13,8 +13,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 12 hrs 31 mins
-
 Svelte       3 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 % 
 JavaScript   3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 CSS          2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 % 
