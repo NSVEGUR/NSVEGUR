@@ -13,13 +13,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 10 hrs 40 mins
+Total: 12 hrs 31 mins
 
-Svelte       3 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
-CSS          2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
-JavaScript   1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Dart         1 hr 51 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.38 % 
-HTML         1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Svelte       3 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 % 
+JavaScript   3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+CSS          2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Dart         1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+HTML         1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 <!--END_SECTION:waka-->
 
