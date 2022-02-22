@@ -13,6 +13,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+From: 14 February, 2022 - To: 21 February, 2022
+
 JavaScript   10 hrs 31 mins  ███████▒░░░░░░░░░░░░░░░░░   29.78 % 
 Dart         10 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   28.64 % 
 CSS          7 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
