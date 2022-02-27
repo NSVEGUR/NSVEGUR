@@ -12,15 +12,18 @@
 ### Wakatime
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-JavaScript   13 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.30 % 
-CSS          10 hrs 2 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 % 
-EJS          8 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Dart         8 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-HTML         6 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+```text
+From: 19 February 2022 - To: 26 February 2022
+
+JavaScript   14 hrs 53 mins  ███████▓░░░░░░░░░░░░░░░░░   30.06 %
+CSS          10 hrs 14 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+HTML         8 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
+EJS          8 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+TypeScript   5 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+JSON         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Gitty
