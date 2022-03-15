@@ -28,6 +28,6 @@ Bash         12 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Gitty
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NSVEGUR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=57A6FF&fire=57A6FF&currStreakLabel=57A6FF&background=0F1017)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NSVEGUR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=57A6FF&fire=57A6FF&currStreakLabel=57A6FF&background=0F1017)]('')
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/NSVEGUR/NSVEGUR/output/github-contribution-grid-snake.svg)
