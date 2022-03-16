@@ -1,5 +1,7 @@
 ## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm [Nagasai Vegur!](https://nsvegur.github.io/Blog)
 
+### <img src="https://c.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width="29px"> About [...](https://nsvegur.github.io/Blog/)
+
 - 🔭 I'm a Developer, Designer and Coding Enthusiast.
 - 🎲 I am passionate about Data Science, Web Dev, App Dev and Problem solving. 
 - 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
