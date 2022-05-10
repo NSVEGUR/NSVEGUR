@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 08 May 2022
+From: 02 May 2022 - To: 09 May 2022
 
 TypeScript   6 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.60 %
 Svelte       5 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.08 %
