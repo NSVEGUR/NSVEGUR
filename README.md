@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2022 - To: 10 May 2022
-
-TypeScript   42 mins         ████████████████░░░░░░░░░   63.82 %
-Svelte       23 mins         █████████░░░░░░░░░░░░░░░░   36.07 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
