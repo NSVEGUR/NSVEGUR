@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-C            18 hrs 9 mins   ██████████████████████▒░░   89.56 %
-Python       1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-CSV          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C            13 hrs 34 mins  ██████████████████████▒░░   88.84 %
+Python       1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
