@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 August 2022 - To: 27 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
 C        5 hrs 46 mins   ███████████████████▓░░░░░   79.02 %
 Python   1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
