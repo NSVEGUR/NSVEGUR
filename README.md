@@ -7,10 +7,6 @@
 - 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
 - ⚡ Fun fact about me: 👨🏻‍💻🎧♥️
 
-### <img src="https://c.tenor.com/HJvqN2i4Zs4AAAAi/milk-and-mocha-cute.gif" height="29px"> Spotifying [...](https://spotify-github-profile.vercel.app/api/view?uid=awb202e2k5avst93l65zp104s&redirect=true)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=awb202e2k5avst93l65zp104s&cover_image=true&theme=novatorem&bar_color=56a5fe&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=awb202e2k5avst93l65zp104s&redirect=true)
-
 ### <img src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" height="29px"> Wakatime [...](https://wakatime.com/@NSVegur)
 
 <!--START_SECTION:waka-->
