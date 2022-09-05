@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 August 2022 - To: 03 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-C        4 hrs 12 mins   ███████████████████▓░░░░░   78.96 %
-Python   1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
+C            4 hrs 12 mins   ██████████████████▓░░░░░░   74.78 %
+Python       1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
