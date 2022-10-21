@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 19 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
-C               6 hrs 27 mins   ██████████████████▓░░░░░░   74.86 %
-Python          2 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+C               6 hrs 16 mins   ██████████████████▓░░░░░░   74.31 %
+Python          2 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
 Other           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
