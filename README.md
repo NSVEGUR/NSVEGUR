@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
+From: 17 November 2022 - To: 24 November 2022
 
-Svelte       45 mins         ███████████████▓░░░░░░░░░   62.08 %
-TypeScript   17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-HTML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Python       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Svelte       55 mins         █████████████████░░░░░░░░   68.49 %
+TypeScript   18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+HTML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
