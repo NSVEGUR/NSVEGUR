@@ -12,12 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
-Python       38 mins         ██████████████▒░░░░░░░░░░   57.89 %
-Markdown     27 mins         ██████████▒░░░░░░░░░░░░░░   41.10 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Git Config   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
