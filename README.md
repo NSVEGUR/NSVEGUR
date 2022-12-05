@@ -12,9 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 November 2022 - To: 03 December 2022
+From: 27 November 2022 - To: 04 December 2022
 
-Git Config   0 secs          █████████████████████████   100.00 %
+Svelte       1 hr 15 mins    ██████████████████░░░░░░░   71.59 %
+SCSS         26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+TypeScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
