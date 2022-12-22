@@ -12,13 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Python       9 hrs 25 mins   ██████████████████████░░░   88.58 %
-Svelte       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Svelte       34 mins         █████████████████▓░░░░░░░   70.21 %
+TypeScript   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
