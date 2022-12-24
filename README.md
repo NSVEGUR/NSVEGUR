@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
-
-Svelte       34 mins         █████████████████▓░░░░░░░   70.21 %
-TypeScript   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.28 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
