@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-Python       2 hrs 56 mins   ████████████████████▓░░░░   83.18 %
-C            19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Python       3 hrs 36 mins   ███████████████████████▒░   93.24 %
+Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
