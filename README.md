@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 27 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-Python   3 hrs 54 mins   ████████████████████████▒   97.23 %
-C++      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Python   4 hrs 6 mins    ████████████████████████▒   97.36 %
+C++      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
