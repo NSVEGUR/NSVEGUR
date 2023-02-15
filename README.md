@@ -12,14 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-Python       19 hrs 39 mins  ████████████████░░░░░░░░░   63.52 %
-Svelte       6 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
-C++          2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-TypeScript   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-SCSS         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Python       18 hrs 40 mins  ██████████████░░░░░░░░░░░   55.97 %
+Svelte       6 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+TypeScript   4 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+C++          2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
