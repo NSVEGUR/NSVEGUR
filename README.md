@@ -12,12 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-TypeScript   13 hrs 1 min    █████████████████▒░░░░░░░   69.76 %
-Svelte       3 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-Python       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+TypeScript   14 hrs 44 mins  ████████████████▓░░░░░░░░   66.63 %
+Svelte       3 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+Docker       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Python       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+YAML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
