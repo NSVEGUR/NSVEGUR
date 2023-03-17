@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2023 - To: 15 March 2023
+From: 09 March 2023 - To: 16 March 2023
 
-Svelte       19 hrs 18 mins  ██████████████▒░░░░░░░░░░   57.56 %
-Other        5 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Svelte       24 hrs          ███████████████▓░░░░░░░░░   62.11 %
+TypeScript   7 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+Other        5 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
 ```
 
 <!--END_SECTION:waka-->
