@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 28 March 2023
+From: 22 March 2023 - To: 29 March 2023
 
-TypeScript   9 hrs 48 mins   █████████████▒░░░░░░░░░░░   52.85 %
-Svelte       6 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
-Python       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Other        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+TypeScript   12 hrs 17 mins  ████████████▓░░░░░░░░░░░░   50.98 %
+Svelte       9 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   40.09 %
+Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
