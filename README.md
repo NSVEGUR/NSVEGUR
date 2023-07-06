@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-Svelte       1 hr            ████████████▓░░░░░░░░░░░░   51.01 %
-C++          39 mins         ████████▒░░░░░░░░░░░░░░░░   33.34 %
-TypeScript   17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
