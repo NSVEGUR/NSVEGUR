@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 08 August 2023
+From: 02 August 2023 - To: 09 August 2023
 
-Svelte       11 hrs 12 mins  ███████████▓░░░░░░░░░░░░░   46.63 %
-TypeScript   7 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   31.65 %
-PHP          3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Python       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Svelte       14 hrs 12 mins  ███████████████░░░░░░░░░░   60.51 %
+TypeScript   7 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   31.90 %
+Python       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
