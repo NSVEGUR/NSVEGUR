@@ -7,7 +7,7 @@
 - 👨‍💻 I'm always learning something new, and enjoy trying out new technologies.
 - ⚡ Fun fact about me: 👨🏻‍💻🎧♥️
 
-### <img src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" height="29px"> [Wakatime](https://wakatime.com/@NSVegur)
+### <img src="https://media.tenor.com/LtF6lgB8FdsAAAAi/mochi-peach.gif" height="29px"> [Wakatime](https://wakatime.com/@NSVegur)
 
 <!--START_SECTION:waka-->
 
