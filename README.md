@@ -1,4 +1,4 @@
-## Hey,I'm [Nagasai Vegur!](https://nsvegur.me/)
+## Hey,I'm [Nagasai Vegur!](https://nsvegur.vercel.app/)
 
 ### [About](https://nsvegur.me/)
 
