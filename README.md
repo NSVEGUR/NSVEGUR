@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Svelte       2 hrs 10 mins   ████████████████████▓░░░░   83.07 %
-TypeScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Python       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-SCSS         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
