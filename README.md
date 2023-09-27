@@ -24,5 +24,5 @@ TSQL           21 mins         ▓░░░░░░░░░░░░░░░�
 
 ### [Gitty](https://github.com/NSVEGUR?tab=repositories)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NSVEGUR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=57A6FF&fire=57A6FF&currStreakLabel=57A6FF&background=0F1017)]('https://github.com/NSVEGUR')
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSVEGUR&theme=github_dark)]('https://github.com/NSVEGUR')
 
