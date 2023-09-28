@@ -4,7 +4,7 @@
 - 👻 Name: V Nagasai
 - 🔭 Site: [nsvegur.me](https://nsvegur.me/)
 - 📨 Email: [hey@nsvegur.me](mailto:hey@nsvegur.me)
-- 👨🏻‍💻 Software engineer | Developer | Designer
+- 👨🏻‍💻 Software Engineer | Developer | Designer
 
 ### [Wakatime](https://wakatime.com/@NSVegur)
 
