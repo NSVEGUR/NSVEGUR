@@ -1,12 +1,15 @@
 
-### [About](https://nsvegur.me/)
+## Hello, this is [**Nagasai Vegur**](https://nsvegur.me/)
 
-- 👻 Name: V Nagasai
-- 🔭 Site: [nsvegur.me](https://nsvegur.me/)
-- 📨 Email: [hey@nsvegur.me](mailto:hey@nsvegur.me)
-- 👨🏻‍💻 Software Engineer | Developer | Designer
+I'm a **software developer** and computer enthusiast experimenting with interfaces in web who's passionate about **Data**. An innovative individual with zeal for learning something new who enjoys trying out new technologies while listening to 13 exclamations!
 
-### [Wakatime](https://wakatime.com/@NSVegur)
+- 🍔 [What am I cookig? (**GitHub**, you're already here)](https://github.com/NSVEGUR)
+- 👻 [More Me? **Portfolio**](https://nsvegur.me/)
+- 🔭 [What describes me? **Resume**](https://nsvegur.me/resume)
+
+> P.S. To read this intro on terminal, just run `npx nsvegur`. But why? -- why not? 🤷🏻‍♂️
+
+### Activity
 
 <!--START_SECTION:waka-->
 
@@ -22,7 +25,7 @@ Bash         1 hr 16 mins    █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### [Gitty](https://github.com/NSVEGUR?tab=repositories)
+### Gitty
 
 [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSVEGUR&theme=github_dark)]('https://github.com/NSVEGUR')
 
