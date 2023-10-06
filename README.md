@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Svelte       9 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.70 %
-TypeScript   5 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-TeX          3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-GDScript3    2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Bash         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Svelte       9 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.47 %
+TypeScript   5 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+TeX          2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+GDScript3    2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Bash         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
