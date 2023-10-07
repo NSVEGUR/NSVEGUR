@@ -7,7 +7,7 @@ I'm a **software developer** and computer enthusiast experimenting with interfac
 - 👻 [More Me? **Portfolio**](https://nsvegur.me/)
 - 🔭 [What describes me? **Resume**](https://nsvegur.me/resume)
 
-> P.S. To read this intro on terminal, just run `npx nsvegur`. But why? -- why not? 🤷🏻‍♂️
+> P.S. To read this intro on terminal, just run `npx @nsvegur/profile`. But why? -- why not? 🤷🏻‍♂️
 
 ### Activity
 
