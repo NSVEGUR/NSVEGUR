@@ -1,5 +1,5 @@
 
-## Hello, this is [**Nagasai Vegur**](https://nsvegur.me/)
+## Howdy, this is Nagasai Vegur
 
 I'm a **software developer** and computer enthusiast experimenting with interfaces in web who's passionate about **Data**. An innovative individual with zeal for learning something new who enjoys trying out new technologies while listening to 13 exclamations!
 
