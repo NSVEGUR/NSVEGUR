@@ -14,13 +14,13 @@ I'm a **software developer** and computer enthusiast experimenting with interfac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Svelte           17 hrs 17 mins  ████████▓░░░░░░░░░░░░░░░░   34.13 %
-TypeScript       12 hrs 50 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
-Docker           5 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-YAML             3 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Bash             2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Svelte           17 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   31.82 %
+TypeScript       12 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Docker           5 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+YAML             4 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+TeX              3 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
