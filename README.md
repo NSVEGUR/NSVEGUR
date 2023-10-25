@@ -14,7 +14,7 @@ I'm a **software developer** and computer enthusiast experimenting with interfac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
 Svelte           13 hrs 18 mins  ██████████████▓░░░░░░░░░░   58.16 %
 TypeScript       6 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
