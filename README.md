@@ -1,7 +1,16 @@
 
-## [Howdy, this is Nagasai Vegur](https://nsvegur.me/)
+## [Howdy🖖🏻, this is Nagasai Vegur](https://nsvegur.me/)
 
-I'm a **software developer** and computer enthusiast experimenting with interfaces in web who's passionate about **Data**. An innovative individual with zeal for learning something new who enjoys trying out new technologies while listening to 13 exclamations!
+<div style="
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  ">
+  <img width="875" alt="Untitled" src="https://github.com/NSVEGUR/NSVEGUR/assets/83576465/f41a8098-aaa9-4353-8130-bd4076cb1d4a">
+</div>
+
+
+I'm a **software developer** and computer enthusiast experimenting with interfaces in web who's passionate about **Data** and **Algorithms**. An innovative individual with zeal for learning something new who enjoys trying out new technologies while listening to 13 exclamations!
 
 - 🍔 [What am I cookig? (**GitHub**, you're already here)](https://github.com/NSVEGUR)
 - 👻 [More Me? **Portfolio**](https://nsvegur.me/)
