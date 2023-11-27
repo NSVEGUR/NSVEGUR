@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 25 November 2023
+From: 19 November 2023 - To: 26 November 2023
 
-TypeScript   14 hrs 34 mins  ██████████████▒░░░░░░░░░░   56.71 %
-Svelte       4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
-MDX          1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-YAML         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-JSON         1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Svelte       4 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   45.92 %
+TypeScript   2 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
+JSON         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+YAML         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Bash         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
