@@ -30,9 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
-No activity tracked
+JSON         43 mins         ██████████▓░░░░░░░░░░░░░░   42.89 %
+TypeScript   28 mins         ███████░░░░░░░░░░░░░░░░░░   27.55 %
+YAML         15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+SSH Config   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
