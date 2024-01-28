@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 26 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
-TypeScript   21 hrs 19 mins  ███████████████████████▒░   93.32 %
-Svelte       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+TypeScript   20 hrs 57 mins  ███████████████████████░░   92.22 %
+Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Svelte       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
