@@ -30,13 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2024 - To: 10 March 2024
+From: 04 March 2024 - To: 11 March 2024
 
-TypeScript   3 hrs 57 mins   ███████████████████████▓░   94.45 %
-Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Bash         2 mins          █████████████████▓░░░░░░░   70.46 %
+SSH Config   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.54 %
 ```
 
 <!--END_SECTION:waka-->
