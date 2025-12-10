@@ -24,8 +24,3 @@
 - 🔭 [What describes me? **Curriculum Vitae**](https://www.nsvegur.me/curriculum-vitae.pdf)
 
 > P.S. To read this intro on terminal, just run `npx @nsvegur/profile`. But why? -- why not? 🤷🏻‍♂️
-
-<br />
-
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSVEGUR&theme=github_dark)]('https://github.com/NSVEGUR')
-
