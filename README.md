@@ -15,9 +15,7 @@
  
 <p>
 &emsp; &emsp; I'm a <b>software developer</b> and computer enthusiast experimenting with interfaces in web who's passionate about <b>Data</b> and <b>Algorithms</b>. An innovative individual with zeal for learning something new who enjoys trying out new technologies while listening to 13 exclamations!
-</p>
-
-<br /> 
+</p> 
 
 - 🍔 [What am I cookig? (**GitHub**, you're already here)](https://github.com/NSVEGUR)
 - 👻 [More Me? **Portfolio**](https://nsvegur.me/)
