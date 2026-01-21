@@ -7,7 +7,7 @@
   justify-content: center;
   align-items: center;
   ">
-  <img width="875" alt="Engineer" src="https://github.com/user-attachments/assets/290ec7a5-69bc-4df0-8b07-ac5ee0481a82">
+  <img width="875" alt="Engineer" src="https://github.com/user-attachments/assets/50cefef4-6777-4b4e-8d5f-77fa6564d17d" />
 </div>
 
 
