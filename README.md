@@ -20,4 +20,4 @@
 - 🍔 [What am I cookig? (**GitHub**, you're already here)](https://github.com/NSVEGUR)
 - 👻 [More Me? **Portfolio**](https://nsvegur.me/)
 
-> P.S. To read this intro on terminal, just run `npx @nsvegur/profile`. But why? -- why not? 🤷🏻‍♂️
+> P.S. To read this intro on terminal, just run `npm install -g @nsvegur/profile && nsvegur`. But why? -- why not? 🤷🏻‍♂️
